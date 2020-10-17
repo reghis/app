@@ -414,3 +414,4 @@ E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.V
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.pdb
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.genruntimeconfig.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.csprojAssemblyReference.cache

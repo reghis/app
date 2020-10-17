@@ -2699,6 +2699,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "CEntidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CEntidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CEntidades.dll": {}
+        }
       }
     }
   },
@@ -8700,10 +8710,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "CEntidades/1.0.0": {
+      "type": "project",
+      "path": "../CEntidades/CEntidades.csproj",
+      "msbuildProject": "../CEntidades/CEntidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "CEntidades >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.4",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.4",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.4",
@@ -8745,7 +8761,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\PROYECTOS\\2020\\NETCORE\\elipgo\\CEntidades\\CEntidades.csproj": {
+              "projectPath": "E:\\PROYECTOS\\2020\\NETCORE\\elipgo\\CEntidades\\CEntidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
