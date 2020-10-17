@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zapateria", "Zapateria.csproj", "{137B4F7C-B84A-4D2B-ADA4-0048DCF2EB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_ZapateriaSuper", "..\WebApi_ZapateriaSuper\WebApi_ZapateriaSuper.csproj", "{FCA5464F-E7D2-45C0-A14A-BB08546357E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137B4F7C-B84A-4D2B-ADA4-0048DCF2EB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137B4F7C-B84A-4D2B-ADA4-0048DCF2EB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137B4F7C-B84A-4D2B-ADA4-0048DCF2EB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137B4F7C-B84A-4D2B-ADA4-0048DCF2EB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38DEB30-16FB-488D-9E86-C03D4449A3EE}
+	EndGlobalSection
+EndGlobal
