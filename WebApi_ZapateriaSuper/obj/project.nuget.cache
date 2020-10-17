@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "odVRz+t0PqyWytROXSwoT9r+HcOoZesEb7/ufn8yWomyjlDcZb+aCECt8FeKOjqy07afEVH5cEegAYEBGrrlMg==",
+  "dgSpecHash": "e7cBwoyGTIEk1I7QewSdZB7f69FsmcPF9++oHzR/4sOPdJJfopb73mMyAPnHDC2bXku1ZI5DNd9p0iFEFrwG8Q==",
   "success": true,
   "projectFilePath": "E:\\PROYECTOS\\2020\\NETCORE\\elipgo\\WebApi_ZapateriaSuper\\WebApi_ZapateriaSuper.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

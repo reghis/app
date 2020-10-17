@@ -12,6 +12,7 @@ using WebConsola.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using WebConsola.Config;
 
 namespace WebConsola
 {
@@ -35,6 +36,7 @@ namespace WebConsola
             services.AddControllersWithViews();
             services.AddRazorPages();
 
+            SwaggerConfig.AddRegistration(services);
 
             services.AddMvc();
 
@@ -61,6 +63,9 @@ namespace WebConsola
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+            // SWAGGER POR FUERA
+            SwaggerConfig.AddRegistration(app);
 
             app.UseEndpoints(endpoints =>
             {

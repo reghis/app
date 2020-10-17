@@ -12,6 +12,8 @@ namespace CEntidades
         public int storesid { get; set; }
         public string name { get; set; }
         public string address { get; set; }
+        public virtual ICollection<articles> Articles { get; set; }
+        
 
     }
 }

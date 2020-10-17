@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using CEntidades;
 
 namespace WebConsola.Data
 {
@@ -12,5 +13,7 @@ namespace WebConsola.Data
             : base(options)
         {
         }
+        public DbSet<CEntidades.stores> stores { get; set; }
+        public DbSet<CEntidades.articles> articles { get; set; }
     }
 }

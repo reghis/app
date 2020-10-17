@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebConsola</name>
+    </assembly>
+    <members>
+        <member name="M:WebConsola.Controllers.storesController.Getstores(System.Int32)">
+            <summary>
+            GET por ID del Store
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebConsola.Controllers.storesController.Poststores(CEntidades.stores)">
+            <summary>
+            POST DE STORES 
+            </summary>
+            <param name="stores"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

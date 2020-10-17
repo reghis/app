@@ -7,13 +7,15 @@ E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\W
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.runtimeconfig.dev.json
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.pdb
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.AssemblyInfoInputs.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.AssemblyInfo.cs
-E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.csproj.CoreCompileInputs.cache
-E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.MvcApplicationPartsAssemblyInfo.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.RazorTargetAssemblyInfo.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.csproj.CopyComplete
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\staticwebassets\WebApi_ZapateriaSuper.StaticWebAssets.Manifest.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\staticwebassets\WebApi_ZapateriaSuper.StaticWebAssets.xml
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.pdb
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.genruntimeconfig.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.csprojAssemblyReference.cache

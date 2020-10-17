@@ -16,5 +16,6 @@ namespace CEntidades
         public decimal total_in_shelf { get; set; }      // despensa
         public decimal total_in_vault { get; set; }     // bodega
         public int store_id { get; set; }
+        public virtual stores Stores { get; set; }
     }
 }
