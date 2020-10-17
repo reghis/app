@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zapateria", "Zapateria.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_ZapateriaSuper", "..\WebApi_ZapateriaSuper\WebApi_ZapateriaSuper.csproj", "{FCA5464F-E7D2-45C0-A14A-BB08546357E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsola", "..\WebConsola\WebConsola.csproj", "{D07DE66E-2E52-4231-BBD3-227EC46BE927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA5464F-E7D2-45C0-A14A-BB08546357E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07DE66E-2E52-4231-BBD3-227EC46BE927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07DE66E-2E52-4231-BBD3-227EC46BE927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07DE66E-2E52-4231-BBD3-227EC46BE927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07DE66E-2E52-4231-BBD3-227EC46BE927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
