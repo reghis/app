@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CEntidades;
 using WebConsola.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebConsola.Controllers
 {
@@ -22,6 +23,12 @@ namespace WebConsola.Controllers
         }
 
         // GET: api/stores
+        /// <summary>
+        /// Recupera GET todos los Stores del Zapatos
+        /// </summary>
+        /// <returns></returns>
+        /// 
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<stores>>> Getstores()
         {
@@ -30,7 +37,7 @@ namespace WebConsola.Controllers
 
         // GET: api/stores/5
         /// <summary>
-        /// GET por ID del Store
+        /// GET Store por ID de la base de datos
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -50,6 +57,12 @@ namespace WebConsola.Controllers
         // PUT: api/stores/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        /// <summary>
+        /// Actualiza algun Store por id y objeto Store 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="stores"></param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> Putstores(int id, stores stores)
         {
@@ -83,7 +96,7 @@ namespace WebConsola.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         /// <summary>
-        /// POST DE STORES 
+        /// POST DE STORES permite Insertar un Objeto Store
         /// </summary>
         /// <param name="stores"></param>
         /// <returns></returns>
@@ -97,6 +110,11 @@ namespace WebConsola.Controllers
         }
 
         // DELETE: api/stores/5
+        /// <summary>
+        /// Baja de algun Store respectivamente
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public async Task<ActionResult<stores>> Deletestores(int id)
         {

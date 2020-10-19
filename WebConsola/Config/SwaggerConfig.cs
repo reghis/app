@@ -11,7 +11,7 @@ using Microsoft.OpenApi.Models;
 //using Microsoft.IdentityModel.Tokens;
 using System.Configuration;
 using Microsoft.Extensions.Configuration;
-
+using System.Reflection;
 
 namespace WebConsola.Config
 {
@@ -21,33 +21,35 @@ namespace WebConsola.Config
         {
             var basePath = System.AppDomain.CurrentDomain.BaseDirectory;
             var xmlPath = Path.Combine(basePath, "WebConsola.xml");
-
-            services.AddSwaggerGen(config =>
-            {
-                config.SwaggerDoc("v1", new Info
+            services.AddSwaggerGen(c =>
                 {
-                    Title = "UpCurAPI Swagger Reghisbot MVC Net.Core",
-                    Version = "v1"
-                });
-                config.IncludeXmlComments(xmlPath);
-
-                var securitySchema = new OpenApiSecurityScheme
-                {
-                    Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
-                    Name = "Authorization",
-                    In = ParameterLocation.Header,
-                    Type = SecuritySchemeType.ApiKey
-                };
-                config.AddSecurityDefinition("Bearer", securitySchema);
-
-                var securityRequirement = new OpenApiSecurityRequirement();
-                securityRequirement.Add(securitySchema, new[] { "Bearer" });
-                config.AddSecurityRequirement(securityRequirement);
-
-                // Seguridad del Documento
-            }
+                    c.SwaggerDoc("v1", new OpenApiInfo
+                    {
+                        Title = "My API",
+                        Version = "v1"
+                    });
+                    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                    {
+                        In = ParameterLocation.Header,
+                        Description = "Please insert JWT with Bearer into field",
+                        Name = "Authorization",
+                        Type = SecuritySchemeType.ApiKey
+                    });
+                    c.AddSecurityRequirement(new OpenApiSecurityRequirement {
+                   {
+                     new OpenApiSecurityScheme
+                     {
+                       Reference = new OpenApiReference
+                       {
+                         Type = ReferenceType.SecurityScheme,
+                         Id = "Bearer"
+                       }
+                      },
+                      new string[] { }
+                    }
+                 });
+               }
             );
-            // VERSION 2 se hara afuera en Startup
             return services;
         }
         //registra en la Aplicacion
@@ -57,11 +59,13 @@ namespace WebConsola.Config
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "UpCur Swagger Reghisbot MVC Net.Core");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Foo API V1");
 
             });
             return app;
         }
 
     }
+
+
 }

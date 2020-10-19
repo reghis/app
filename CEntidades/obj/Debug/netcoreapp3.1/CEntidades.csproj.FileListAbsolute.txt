@@ -5,4 +5,5 @@ E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.A
 E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.AssemblyInfo.cs
 E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.pdb
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.csprojAssemblyReference.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Debug\netcoreapp3.1\CEntidades.csproj.CoreCompileInputs.cache

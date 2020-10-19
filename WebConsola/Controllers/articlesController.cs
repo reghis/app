@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CEntidades;
 using WebConsola.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebConsola.Controllers
 {
@@ -22,6 +23,12 @@ namespace WebConsola.Controllers
         }
 
         // GET: api/articles
+        /// <summary>
+        /// Get de todos los Articulos Zapatos
+        /// </summary>
+        /// <returns></returns>
+        /// 
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<articles>>> Getarticles()
         {
@@ -29,6 +36,11 @@ namespace WebConsola.Controllers
         }
 
         // GET: api/articles/5
+        /// <summary>
+        /// Get de un Articulo por ID
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         public async Task<ActionResult<articles>> Getarticles(int id)
         {
@@ -45,6 +57,12 @@ namespace WebConsola.Controllers
         // PUT: api/articles/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        /// <summary>
+        /// Actualiza un Articulo por ID y Objeto
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="articles"></param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> Putarticles(int id, articles articles)
         {
@@ -77,6 +95,11 @@ namespace WebConsola.Controllers
         // POST: api/articles
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+        /// <summary>
+        /// Inserta un articulo POST por objeto
+        /// </summary>
+        /// <param name="articles"></param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<ActionResult<articles>> Postarticles(articles articles)
         {
@@ -87,6 +110,11 @@ namespace WebConsola.Controllers
         }
 
         // DELETE: api/articles/5
+        /// <summary>
+        /// DETELE de algun Articulo por ID
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public async Task<ActionResult<articles>> Deletearticles(int id)
         {

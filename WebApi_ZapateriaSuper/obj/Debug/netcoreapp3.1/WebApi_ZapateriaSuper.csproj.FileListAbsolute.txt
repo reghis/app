@@ -19,3 +19,5 @@ E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\W
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.pdb
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.genruntimeconfig.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\obj\Debug\netcoreapp3.1\WebApi_ZapateriaSuper.csprojAssemblyReference.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebApi_ZapateriaSuper\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll

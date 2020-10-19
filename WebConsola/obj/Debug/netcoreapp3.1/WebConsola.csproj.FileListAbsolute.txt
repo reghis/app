@@ -1,9 +1,6 @@
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.csprojAssemblyReference.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.AssemblyInfoInputs.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.AssemblyInfo.cs
-E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.csproj.CoreCompileInputs.cache
-E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cs
-E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.RazorAssemblyInfo.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.RazorAssemblyInfo.cs
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -441,3 +438,10 @@ E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Swashbuckle.
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.Views.pdb
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.pdb
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cs
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cache
