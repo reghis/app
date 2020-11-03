@@ -442,6 +442,9 @@ E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.Id
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.csproj.CoreCompileInputs.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cs
 E:\PROYECTOS\2020\NETCORE\elipgo\WebConsola\obj\Debug\netcoreapp3.1\WebConsola.MvcApplicationPartsAssemblyInfo.cache

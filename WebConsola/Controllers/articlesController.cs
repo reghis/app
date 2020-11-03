@@ -28,7 +28,7 @@ namespace WebConsola.Controllers
         /// </summary>
         /// <returns></returns>
         /// 
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<articles>>> Getarticles()
         {

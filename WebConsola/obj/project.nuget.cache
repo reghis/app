@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "311APkXqphspIw1dZBESQzKG0H4tWUs4Qz+a3Yd8Udx04RhFrZ+NLQCD7StmfMaHgdQX1uI0zC0DUb0jz50Ntw==",
+  "dgSpecHash": "HneCizAJH1pJNHO5nI+pycPHG0ZNnpcl2VmtEVkEWg8VORzXCl3HzyeCHEKw07LsD9CAXVX6mQOLxr1jeCie4g==",
   "success": true,
   "projectFilePath": "E:\\PROYECTOS\\2020\\NETCORE\\elipgo\\WebConsola\\WebConsola.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.4.nupkg.sha512",
@@ -56,6 +57,8 @@
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\HPRVR\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

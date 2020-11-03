@@ -10,6 +10,7 @@ namespace CEntidades
     {
         [Key]
         public int storesid { get; set; }
+        public int StoreCod { get; set; }
         public string name { get; set; }
         public string address { get; set; }
         public virtual ICollection<articles> Articles { get; set; }
