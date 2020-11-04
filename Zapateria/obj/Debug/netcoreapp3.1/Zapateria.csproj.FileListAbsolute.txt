@@ -20,7 +20,6 @@ E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.pdb
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.genruntimeconfig.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.csprojAssemblyReference.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.csproj.CoreCompileInputs.cache
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.MvcApplicationPartsAssemblyInfo.cs
 E:\PROYECTOS\2020\NETCORE\elipgo\Zapateria\obj\Debug\netcoreapp3.1\Zapateria.MvcApplicationPartsAssemblyInfo.cache

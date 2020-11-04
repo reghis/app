@@ -1,0 +1,9 @@
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\bin\Release\netcoreapp3.1\CEntidades.deps.json
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\bin\Release\netcoreapp3.1\CEntidades.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\bin\Release\netcoreapp3.1\CEntidades.pdb
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.csprojAssemblyReference.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.AssemblyInfoInputs.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.AssemblyInfo.cs
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.dll
+E:\PROYECTOS\2020\NETCORE\elipgo\CEntidades\obj\Release\netcoreapp3.1\CEntidades.pdb

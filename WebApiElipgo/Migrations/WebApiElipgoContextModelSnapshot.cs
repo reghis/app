@@ -38,11 +38,11 @@ namespace WebApiElipgo.Migrations
                     b.Property<byte[]>("FileAdjunto1")
                         .HasColumnType("varbinary(max)");
 
-                    b.Property<int>("FonoDom")
-                        .HasColumnType("int");
+                    b.Property<string>("FonoDom")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("FonoPersonal")
-                        .HasColumnType("int");
+                    b.Property<string>("FonoPersonal")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");

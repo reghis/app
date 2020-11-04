@@ -15,5 +15,6 @@ namespace WebConsola.Data
         }
         public DbSet<CEntidades.stores> stores { get; set; }
         public DbSet<CEntidades.articles> articles { get; set; }
+        public DbSet<CEntidades.Contacto> Contacto { get; set; }
     }
 }
